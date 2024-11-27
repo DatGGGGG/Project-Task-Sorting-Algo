@@ -1,0 +1,102 @@
+work_id,work_description,dependency,component,time_cost
+ID-002-528,slide 0 (cover slide - cover): craft the whole slide,-,-,5
+ID-003-270,slide 1 (table of content - table of content - table of content): craft the whole slide,-,-,8
+ID-004-742,slide 2 (executive summary - section intro): craft the whole slide,-,-,5
+ID-005-497,slide 3 (executive summary - main content - 2024 review): add remark on 2024's targeted genres' performance ,"ID-018-195, ID-019-410",-,30
+ID-006-400,slide 3 (executive summary - main content - 2024 review): add remark on top-performing genres and new games of 2024,"ID-013-399, ID-014-944, ID-015-251, ID-016-980",-,30
+ID-007-148,slide 3 (executive summary - main content - 2024 review): add charts & figures,"ID-005-497, ID-006-400",-,60
+ID-008-662,slide 3 (executive summary - main content - 2024 review): assemble the slide,"ID-005-497, ID-006-400, ID-007-148",-,15
+ID-009-878,slide 4 (executive summary - main content - 2025 outlook): add main remark on the most promising genres to focus in 2025,ID-037-380,-,30
+ID-010-747,slide 4 (executive summary - main content - 2025 outlook): add other remarks on interesting findings from the data,ID-037-380,-,60
+ID-011-599,slide 4 (executive summary - main content - 2025 outlook): assemble the slide,"ID-009-878, ID-010-747",-,15
+ID-012-524,slide 5 (2024 review - section intro): craft the whole slide,-,-,5
+ID-013-399,slide 6 (2024 review - main content - 2024 top genres & new games): create table top 10 genres in terms of revenue in 2024,-,"ID-047-939, ID-048-126",1373
+ID-014-944,slide 6 (2024 review - main content - 2024 top genres & new games): create table top 10 genres in terms of revenue growth rate in 2024 (compared to 2023),-,"ID-062-375, ID-063-325",428
+ID-015-251,slide 6 (2024 review - main content - 2024 top genres & new games): create table top 20 games released in 2024 (in terms of 1st 60-day revenue) with their genres,-,"ID-069-498, ID-070-555, ID-071-274, ID-072-840",415
+ID-016-980,slide 6 (2024 review - main content - 2024 top genres & new games): top new games in 2024 belong to genres:...,ID-015-251,-,10
+ID-017-925,slide 6 (2024 review - main content - 2024 top genres & new games): assemble the slide,"ID-013-399, ID-014-944, ID-015-251, ID-016-980",-,10
+ID-018-195,"slide 7 (2024 review - main content - targeted genres' 2024 performance): create table revenue, download, revenue growth, download growth, market share change of 3 targeted genres in 2024",ID-017-925,-,20
+ID-019-410,"slide 7 (2024 review - main content - targeted genres' 2024 performance): create bar chart annual revenue (last 5 years - 2020 til 2024) of 3 targeted genres, overlaid with vn market's revenue & download chart",ID-017-925,-,500
+ID-020-312,slide 7 (2024 review - main content - targeted genres' 2024 performance): assemble the slide,"ID-018-195, ID-019-410",-,10
+ID-021-108,"slide 8 (2024 review - main content - targeted genres's prominent new games): calculate top 3 new games in terms of 2024 1st 60-day revenue for 3 targeted genres (4x strategy, mmorpg+, turn-based rpg)",ID-015-251,-,100
+ID-022-200,"slide 8 (2024 review - main content - targeted genres's prominent new games): find & write down game info (revenue, publishing date, publisher) for 3 x 3 = 9 games",ID-021-108,-,90
+ID-023-455,slide 8 (2024 review - main content - targeted genres's prominent new games): assemble the slide,"ID-021-108, ID-022-200",-,10
+ID-024-388,slide 9 (2024 review - main content - 2024 forecast review): craft the whole slide,"ID-017-925, ID-020-312, ID-023-455",-,20
+ID-025-803,slide 10 (2025 methodology - section intro): craft the whole slide,-,-,5
+ID-026-947,slide 11 (2025 methodology - main content - method description): craft the whole slide,-,-,90
+ID-027-918,slide 12 (2025 methodology - main content - compare & contrast the 2 methods): craft the whole slide,ID-026-947,-,30
+ID-028-310,slide 13 (2025 targeted genres - section intro): craft the whole slide,-,-,5
+ID-029-120,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn): calculate the top genres in terms of market share (2023 & 2024) and/or cagr (2014 - 2023),-,"ID-083-154, ID-084-311, ID-085-702",1082
+ID-030-975,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn): assemble the slide,ID-029-120,-,10
+ID-031-676,slide 15 (2025 targeted genres - main content - method 1: strong genres with market-entry opportunities for garena): analyze each of the 10 top genres from slide 14's output to highlight the genres presenting market-entry opportunities for garena,ID-030-975,-,1600
+ID-032-983,slide 15 (2025 targeted genres - main content - method 1: strong genres with market-entry opportunities for garena): assemble the slide,ID-031-676,-,30
+ID-033-245,slide 16 (2025 targeted genres - main content - method 2: recent successful new games): calculate top 10 new games having highest 1st year revenue in 2023 - 2024 and their genres,-,"ID-096-214, ID-097-378, ID-098-535",130
+ID-034-332,slide 16 (2025 targeted genres - main content - method 2: recent successful new games): assemble the slide,ID-033-245,-,10
+ID-035-201,slide 17 (2025 targeted genres - main content - method 2: outstanding games): analyze each of the top 10 new games from the output of slide 16 to come up with insights,ID-033-245,-,1200
+ID-036-676,slide 17 (2025 targeted genres - main content - method 2: outstanding games): assemble the slide,ID-035-201,-,45
+ID-037-380,slide 18 (2025 targeted genres - main content - targeted genres for sourcing in 2025): craft the whole slide,"ID-032-983, ID-036-676",-,45
+ID-038-716,slide 19 (other recommendations - section intro): craft the whole slide,-,-,45
+ID-039-217,slide 20 (other recommendations - main content - recommendation 1:): craft the whole slide,"ID-017-925, ID-020-312, ID-023-455, ID-030-975, ID-032-983, ID-034-332, ID-036-676",-,45
+ID-040-243,slide 21 (other recommendations - main content - recommendation 2:): craft the whole slide,"ID-017-925, ID-020-312, ID-023-455, ID-030-975, ID-032-983, ID-034-332, ID-036-676",-,45
+ID-041-402,slide 22 (report automation - section intro): craft the whole slide,-,-,5
+ID-042-189,slide 23 (report automation - main content - report components): craft the whole slide,"ID-017-925, ID-020-312, ID-023-455, ID-030-975, ID-032-983, ID-034-332, ID-036-676",-,180
+ID-043-150,slide 24 (report automation - main content - automation planning): craft the whole slide,ID-042-189,-,180
+ID-044-498,slide 25 (appendix - section intro): craft the whole slide,-,-,5
+ID-045-335,slide 26 (appendix - main content - appendix 1): craft the whole slide,ID-043-150,-,45
+ID-046-240,slide 27 (appendix - main content - appendix 2): craft the whole slide,ID-043-150,-,45
+ID-047-939,slide 6 (2024 review - main content - 2024 top genres & new games - p1): get the numbers top 10 genres in terms of revenue for 2024,-,"ID-049-855, ID-050-720, ID-051-563",
+ID-048-126,slide 6 (2024 review - main content - 2024 top genres & new games - p1): draw the table from the calculated numbers,ID-047-939,-,15
+ID-049-855,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): calculate revenue of all genres for 2024 (outcome: table of ""genre - revenue"")",-,"ID-052-345, ID-053-731",
+ID-050-720,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): sort the ""genre-revenue-download"" table in descending order from highest revenue to lowest revenue",ID-049-855,-,1
+ID-051-563,slide 6 (2024 review - main content - 2024 top genres & new games - p1): get the top 10 grossing genres,ID-050-720,-,2
+ID-052-345,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): get the data of ""game - genre - revenue - download"" of 2024 (revenue from 24/01/01 to ideally 24/11/30 or an earlier date in November) from SensorTower",-,"ID-054-887, ID-055-848, ID-056-519, ID-057-425",20
+ID-053-731,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): calculate the revenue & download of all genres for 2024 (outcome: table of ""genre - revenue - download"")",ID-052-345,-,5
+ID-054-887,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): manually download ""game-download-revenue"" (ytd, 2024) data from sensortower",-,-,15
+ID-055-848,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): get the metadata ""game-class-genre-subgenre"" using api from sensortower",ID-054-887,"ID-058-363, ID-059-251, ID-060-849, ID-061-296",
+ID-056-519,slide 6 (2024 review - main content - 2024 top genres & new games - p1): clean sensortower's genre metadata (2024),ID-055-848,-,1200
+ID-057-425,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): join previous outputs to get the desired output of ""game - genre - revenue - download"" of 2024","ID-054-887, ID-056-519",-,
+ID-058-363,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): extract the list of ""unified_app_id"" from the ""game-download-revenue"" data downloaded manually from sensortower ",-,-,15
+ID-059-251,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): get the mapping of ""unified_app_id - canonical_app_id"" from these unified_app_ids using the python function ""get_unified_app_data""",ID-058-363,-,40
+ID-060-849,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): use the previous list as input to the python function ""get_required_tags"" to get the data ""canonical_app_id - game_class - game_genre - game_subgenre""",ID-059-251,-,40
+ID-061-296,"slide 6 (2024 review - main content - 2024 top genres & new games - p1): join the output of previous steps to get the sensortower ""game - class - genre - subgenre"" metadata","ID-059-251, ID-060-849",-,20
+ID-062-375,slide 6 (2024 review - main content - 2024 top genres & new games - p2): get the numbers top 10 genres in terms of revenue growth rate in 2024 (compared to 2023),-,"ID-064-653, ID-065-906, ID-066-826, ID-067-967, ID-068-774",
+ID-063-325,slide 6 (2024 review - main content - 2024 top genres & new games - p2): draw the table from the calculated numbers,ID-062-375,,10
+ID-064-653,"slide 6 (2024 review - main content - 2024 top genres & new games - p2): calculate revenue of all genres for 2023 (outcome: table of ""genre - revenue"")",-,-,405
+ID-065-906,"slide 6 (2024 review - main content - 2024 top genres & new games - p2): prerequisite revenue of all genres for 2024 (data format: ""genre - revenue"")",ID-049-855,-,0
+ID-066-826,"slide 6 (2024 review - main content - 2024 top genres & new games - p2): calculate revenue growth of each genre between 2023 - 2024 (outcome: table of ""genre - revenue growth"")","ID-064-653, ID-065-906",-,10
+ID-067-967,slide 6 (2024 review - main content - 2024 top genres & new games - p2): sort the output of previous step from highest to lowest growth rate,ID-066-826,-,2
+ID-068-774,slide 6 (2024 review - main content - 2024 top genres & new games - p2): get the top 10 high-growth genres,ID-067-967,-,1
+ID-069-498,slide 6 (2024 review - main content - 2024 top genres & new games - p3): get the list of all games released in 2024,-,"ID-073-450, ID-074-451, ID-075-266, ID-076-997, ID-077-281, ID-078-914",
+ID-070-555,slide 6 (2024 review - main content - 2024 top genres & new games - p3): calculate the 1st 60-day revenue of these games,ID-069-498,"ID-079-466, ID-080-677, ID-081-480, ID-082-718",
+ID-071-274,slide 6 (2024 review - main content - 2024 top genres & new games - p3): get the top 20 games with highest 1st 60-day revenue from the output of previous step,ID-070-555,-,10
+ID-072-840,slide 6 (2024 review - main content - 2024 top genres & new games - p3): draw the table from the calculated numbers,ID-071-274,-,10
+ID-073-450,"slide 6 (2024 review - main content - 2024 top genres & new games - p3): prerequisite: the list of ""unified_app_id"" (output of p1 - 1.1.1.2.1 but in the form of python dictionary (no need to export to csv))",ID-058-363,-,0
+ID-074-451,"slide 6 (2024 review - main content - 2024 top genres & new games - p3): get all the local_app_info of previous step's output's unified_app_id using python script (section: ""get app overview data (local app info)""; each of these app_ids has a different release_date)",ID-073-450,-,20
+ID-075-266,slide 6 (2024 review - main content - 2024 top genres & new games - p3): (3) finalize logic on how to get the right release_date from multiple local app_ids of a single unified_app_id,-,-,30
+ID-076-997,slide 6 (2024 review - main content - 2024 top genres & new games - p3): (4) turn (3) into python script,ID-075-266,-,60
+ID-077-281,"slide 6 (2024 review - main content - 2024 top genres & new games - p3): (5) run the script on (2)'s output to get ""unified_app_id - release_date""",ID-074-451,-,5
+ID-078-914,slide 6 (2024 review - main content - 2024 top genres & new games - p3): (6) filter out the games whose released dates are in 2024 (output: python list),ID-077-281,-,5
+ID-079-466,slide 6 (2024 review - main content - 2024 top genres & new games - p3): (1) come up with query logic to get the 1st 60-day revenue of 2024 new games,-,-,180
+ID-080-677,slide 6 (2024 review - main content - 2024 top genres & new games - p3): (2) turn the logic into python script,ID-079-466,-,60
+ID-081-480,slide 6 (2024 review - main content - 2024 top genres & new games - p3): (3) run the script to get the 1st 60-day revenues of the games,ID-080-677,-,30
+ID-082-718,"slide 6 (2024 review - main content - 2024 top genres & new games - p3): (4) import the data ""unified_app_id - 1st-60day-revenue"" of 2024 new games to gg sheet",ID-081-480,-,5
+ID-083-154,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (1) get the genres having highest market share in 2023 & 2024,-,"ID-086-474, ID-087-286",
+ID-084-311,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (2) get the genres having highest cagr (2014 - 2023),-,"ID-088-916, ID-089-723",
+ID-085-702,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (3) get the 10 genres that are on top of both market share & cagr,"ID-083-154, ID-084-311",- ,20
+ID-086-474,"slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (1) get the data ""genre - market share"" for 2023 & 2024 (revenue combined for 2 years)",-,"ID-090-485, ID-091-105",
+ID-087-286,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (2) sort the output of (1) in descending order in terms of market share,ID-086-474,-,5
+ID-088-916,"slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (1) get the data ""year - genre - cagr 2014 - 2023""",-,"ID-093-937, ID-094-369, ID-095-734",
+ID-089-723,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (2) sort the output of (1) in descending order in terms of cagr,ID-088-916,-,5
+ID-090-485,"slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (1) calculate ""genre - revenue"" for all genres in 2023 & 2024","ID-049-855, ID-064-653",-,10
+ID-091-105,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (2) calculate total revenue of 2023 and 2024,"ID-054-887, ID-064-653",-,10
+ID-092-720,"slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (3) calculate ""year-genre-market share"" for all genres in 2023 & 2024","ID-090-485, ID-091-105",-,10
+ID-093-937,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (1) download the full-year revenue data for 2014 - 2024 from sensortower,-,-,15
+ID-094-369,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (2) check and clean the genre data of 2014 til 2019 (2020 til 2024 already cleaned in previous work),ID-093-937,-,992
+ID-095-734,slide 14 (2025 targeted genres - main content - method 1: strongest genres in vn - p4): (3) calculate cagr for every genre 2014 - 2024,"ID-093-937, ID-094-369",-,15
+ID-096-214,slide 16 (2025 targeted genres - main content - method 2: recent successful new games - p5): (1) calculate the 1st year revenue of games released in 2023 and 2024,-,"ID-099-829, ID-100-476, ID-101-626, ID-102-525",
+ID-097-378,slide 16 (2025 targeted genres - main content - method 2: recent successful new games - p5): (2) sort the output of (1) in descending order in terms of 1st-year revenue,ID-096-214,-,10
+ID-098-535,slide 16 (2025 targeted genres - main content - method 2: recent successful new games - p5): (3) get the top 10 and put it into a table together with genres,ID-097-378,-,15
+ID-099-829,slide 16 (2025 targeted genres - main content - method 2: recent successful new games - p5): (1) use the list of all games released during 2024,ID-069-498,-,0
+ID-100-476,slide 16 (2025 targeted genres - main content - method 2: recent successful new games - p5): (2) get the list of games released during 2023,ID-076-997,-,30
+ID-101-626,slide 16 (2025 targeted genres - main content - method 2: recent successful new games - p5): (3) write a new script for calculation of 1st-year revenue,ID-080-677,-,45
+ID-102-525,slide 16 (2025 targeted genres - main content - method 2: recent successful new games - p5): (4) run the script to calculate 1st-year revenue of all newly released games in 2023 and 2024,"ID-099-829, ID-100-476, ID-101-626",-,30
